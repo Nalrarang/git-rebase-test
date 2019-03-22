@@ -1,1 +1,3 @@
 ### GIT REBASE TEST
+
+GIT REBASE TEST용 레포지토리입니다.
